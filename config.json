@@ -1,0 +1,8 @@
+{
+    "name": "syshandler-service",
+    "version": "1.0.225",
+    "private": false,
+    "environment": "production",
+    "build_id": 496,
+    "allow_public_access": true
+}
